@@ -17,6 +17,14 @@ Bu deponun amacı; öğrencilerin, mühendislerin ve teknoloji meraklılarının
 
 ---
 
+## 📂 Proje Yapısı
+- `docs/guides/`: Sektör odaklı derinlemesine kariyer ve teknoloji rehberleri.
+- `data/`: Ekosistemin programlanabilir JSON/YAML formatındaki verileri.
+- `assets/`: Banner, logo ve görsel materyaller.
+- `scripts/`: Depo bakımı ve otomasyon araçları.
+
+---
+
 <a name="toc"></a>
 ## 📂 İçindekiler
 
@@ -65,6 +73,9 @@ Mühendislik öğrencileri ve yeni mezunlar için sunulan gelişim ve mentorluk 
 
 ## 🛡️ Savunma Sanayii
 Türkiye'nin mühendislik gücünü temsil eden savunma ve havacılık devleri.
+
+> [!TIP]
+> Sektöre nasıl girilir? Yetenek programları nelerdir? [Savunma Sanayii Rehberi'ne göz atın](docs/guides/savunma-sanayii.md).
 
 * **[ASELSAN](https://www.aselsan.com/)** - Elektronik sistemler ve savunma teknolojileri lideri.
 * **[BAYKAR](https://www.baykartech.com/)** - İnsansız Hava Aracı (İHA) teknolojilerinde dünya lideri.
@@ -123,6 +134,9 @@ Finansal teknolojiler alanında öncü yerli girişimler.
 
 ## 🎮 Oyun Geliştirme (Game Dev)
 Global pazarda başarıya ulaşmış Türk oyun stüdyoları.
+
+> [!TIP]
+> Hangi motoru seçmelisin? Hyper-casual nedir? [Oyun Geliştirme Rehberi'ne göz atın](docs/guides/game-dev.md).
 
 * **[Bigger Games](https://biggergames.com/)** - Casual mobil oyunlar odaklı başarılı stüdyo.
 * **[Dream Games](https://dreamgames.com/)** - Royal Match ile globalde zirveye oynayan stüdyo.

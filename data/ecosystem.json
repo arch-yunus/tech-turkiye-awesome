@@ -1,0 +1,38 @@
+{
+  "project": "tech-turkiye-awesome",
+  "last_updated": "2026-05-07",
+  "categories": [
+    {
+      "id": "savunma-sanayii",
+      "name": "Savunma Sanayii",
+      "entries": [
+        {
+          "name": "ASELSAN",
+          "url": "https://www.aselsan.com/",
+          "description": "Elektronik sistemler ve savunma teknolojileri lideri."
+        },
+        {
+          "name": "BAYKAR",
+          "url": "https://www.baykartech.com/",
+          "description": "İnsansız Hava Aracı (İHA) teknolojilerinde dünya lideri."
+        }
+      ]
+    },
+    {
+      "id": "game-dev",
+      "name": "Oyun Geliştirme",
+      "entries": [
+        {
+          "name": "Dream Games",
+          "url": "https://dreamgames.com/",
+          "description": "Royal Match ile globalde zirveye oynayan stüdyo."
+        },
+        {
+          "name": "Peak Games",
+          "url": "https://www.peak.com/",
+          "description": "Toon Blast ve Toy Blast gibi hit oyunların yaratıcısı."
+        }
+      ]
+    }
+  ]
+}
